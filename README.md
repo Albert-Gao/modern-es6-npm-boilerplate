@@ -1,4 +1,4 @@
-# ES6 NPM Boilerplate
+# Modern ES6 NPM Boilerplate
 
 A template which you could use to write your NPM package via ES6 syntax.
 
@@ -27,3 +27,9 @@ Just added 1 more:
 - `npm run test`: Run tests via `Jest`
 - `npm run example`: Run example to see if the transpiled code works or not. 
 - `npm run prepublish`: Clean, lint, test then build
+
+## About .vscode folder
+
+It contains an example to show how to debug the `Jest` test in Visual studio code, remove it if you don't want.
+
+You should add `.vscode` to the `.gitignore` file.
