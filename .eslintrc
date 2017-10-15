@@ -1,0 +1,20 @@
+{
+  "parser": "babel-eslint",
+  "extends": ["airbnb", "prettier"],
+  "plugins": [
+    "react"
+],
+  "env": {
+    "browser": true,
+    "node": true,
+    "jest": true
+  },
+  "rules": {
+    "max-len": [2, 80, 4, {"ignoreUrls": true, "ignoreComments": true}],
+    "prefer-const": 1,
+    "one-var": [0, { "uninitialized": "always", "initialized": "never" }],
+    "one-var-declaration-per-line": 0,
+    "import/extensions": 0,
+    "import/no-unresolved": 0
+  }
+}

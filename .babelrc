@@ -1,0 +1,7 @@
+{
+    "presets": [ "env" ],
+    "ignore": [],
+    "plugins": [ "transform-object-rest-spread" ],
+    "sourceMaps": true,
+    "retainLines": true
+}
