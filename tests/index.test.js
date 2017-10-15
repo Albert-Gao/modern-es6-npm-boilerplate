@@ -18,7 +18,8 @@ describe('developer tests', () => {
   });
 
   test('getNewObject', () => {
-    expect(people.getNewObject()).not.toBe(people.people);
-    expect(people.getNewObject()).toEqual(people.people);    
+    const newPeople = people.getNewObject();
+    expect(newPeople).not.toBe(people.people);
+    expect(newPeople).toEqual(people.people);    
   });
 });
