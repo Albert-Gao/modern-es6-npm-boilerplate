@@ -6,7 +6,7 @@ It uses:
 
 - Babel
 - Jest
-- ESLint
+- ESLint (with Airbnb and prettier)
 
 Just added 1 more:
 
