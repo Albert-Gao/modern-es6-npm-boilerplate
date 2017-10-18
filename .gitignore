@@ -27,3 +27,7 @@ node_modules
 npm-debug.log
 
 dist/
+
+# IDE
+.idea/
+# .vscode/
