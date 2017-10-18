@@ -1,13 +1,17 @@
-/* global it, describe, before, after */
+/* global it, describe, beforeEach, afterEach, expect */
 
 import People from '../src/';
 
 describe('developer tests', () => {
   let people;
 
-  beforeEach(() => (people = new People('Albert', '26')));
+  beforeEach(() => {
+    people = new People('Albert', '26')
+  });
 
-  afterEach(() => (people = undefined));
+  afterEach(() => {
+    people = undefined
+  });
 
   test('getName', () => {
     expect(people.getName()).toEqual('Albert');
