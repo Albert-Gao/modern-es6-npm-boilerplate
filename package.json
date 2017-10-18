@@ -33,7 +33,7 @@
     "build": "rimraf dist/ && babel src/ --out-dir dist/",
     "test": "./node_modules/.bin/jest || true",
     "example": "node example.js",
-    "prepublish": "npm run clean && npm run lint && npm run test && npm run build"
+    "prepare": "npm run clean && npm run lint && npm run test && npm run build"
   },
   "devDependencies": {
     "babel-cli": "6.26.0",
