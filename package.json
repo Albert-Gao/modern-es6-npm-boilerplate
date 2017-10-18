@@ -1,6 +1,6 @@
 {
   "name": "es6-npm-boilerplate",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "license": "MIT",
   "engine": "node >= 6.5.x",
   "main": "dist/index.js",
@@ -38,18 +38,18 @@
   "devDependencies": {
     "babel-cli": "6.26.0",
     "babel-core": "6.26.0",
-    "babel-eslint": "7.0.0",
+    "babel-eslint": "8.0.1",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
-    "babel-preset-env": "^1.6.0",
-    "eslint": "3.6.1",
-    "eslint-config-airbnb": "12.0.0",
+    "babel-preset-env": "1.6.1",
+    "eslint": "4.9.0",
+    "eslint-config-airbnb": "16.1.0",
     "eslint-config-prettier": "^2.6.0",
-    "eslint-plugin-import": "1.16.0",
-    "eslint-plugin-jsx-a11y": "2.2.2",
-    "eslint-plugin-react": "6.3.0",
+    "eslint-plugin-import": "2.7.0",
+    "eslint-plugin-jsx-a11y": "6.0.2",
+    "eslint-plugin-react": "7.4.0",
     "jest": "^21.2.1",
     "rimraf": "2.6.2",
-    "run-sequence": "1.2.2"
+    "run-sequence": "2.2.0"
   },
   "prettier": {
     "singleQuote": true
