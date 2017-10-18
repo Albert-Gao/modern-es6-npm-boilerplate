@@ -15,17 +15,17 @@ Just added 1 more:
 ## How to use
 
 1. Clone this repo from github
-   - `git clone https://github.com/Mr-Binary/es6-npm-boilerplate.git` 
+   - `git clone https://github.com/Mr-Binary/es6-npm-boilerplate.git`
 1. Inside repo directory run `npm install && rm -r .git && git init`
 1. Update package.json with your information
 
-## Commands:
+## Commands
 
 - `npm run lint` : linting via ESLint
 - `npm run clean` : Clean the `./dist` folder
 - `npm run build`: Clean and build `src` to `dist`
 - `npm run test`: Run tests via `Jest`
-- `npm run example`: Run example to see if the transpiled code works or not. 
+- `npm run example`: Run example to see if the transpiled code works or not.
 - `npm run prepublish`: Clean, lint, test then build
 
 ## About .vscode folder
