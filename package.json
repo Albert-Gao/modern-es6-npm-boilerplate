@@ -31,7 +31,7 @@
     "lint": "eslint src test",
     "clean": "rimraf dist/",
     "build": "rimraf dist/ && babel src/ --out-dir dist/",
-    "test": "./node_modules/.bin/jest || true",
+    "test": "./node_modules/.bin/jest",
     "example": "node example.js",
     "prepare": "npm run clean && npm run lint && npm run test && npm run build"
   },
