@@ -23,6 +23,7 @@ Just added 1 more:
 
 ## Commands
 
+- `npm run check` : Checking the updates of al your dependencies
 - `npm run lint` : linting via ESLint
 - `npm run clean` : Clean the `./dist` folder
 - `npm run build`: Clean and build `src` to `dist`
