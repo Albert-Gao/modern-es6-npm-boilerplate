@@ -1,5 +1,7 @@
 # Modern ES6 NPM Boilerplate
 
+[![Build Status](https://travis-ci.org/Albert-Gao/modern-es6-npm-boilerplate.svg?branch=master)](https://travis-ci.org/Albert-Gao/modern-es6-npm-boilerplate)
+
 A template which you could use to write your NPM package via ES6 syntax.
 
 It uses:
@@ -27,6 +29,12 @@ Just added 1 more:
 - `npm run test`: Run tests via `Jest`
 - `npm run example`: Run example to see if the transpiled code works or not.
 - `npm run prepublish`: Clean, lint, test then build
+
+## About travis
+
+Instead of running the default `test` command, we will run the `npm run prepare` since it including all the phases for the final release.
+
+And in the readme.md, we have a status icon which shows how to add that building status from Travis. Do remember to modify its URL after forking your repo.
 
 ## About .vscode folder
 
