@@ -1,6 +1,6 @@
 {
   "name": "es6-npm-boilerplate",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "license": "MIT",
   "engine": "node >= 6.5.x",
   "main": "dist/index.js",
