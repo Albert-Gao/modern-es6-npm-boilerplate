@@ -23,13 +23,14 @@ Just added 1 more:
 
 ## Commands
 
-- `npm run check` : Checking the updates of al your dependencies
+- `npm run check` : Checking the updates of all your dependencies
 - `npm run lint` : linting via ESLint
 - `npm run clean` : Clean the `./dist` folder
 - `npm run build`: Clean and build `src` to `dist`
 - `npm run test`: Run tests via `Jest`
 - `npm run example`: Run example to see if the transpiled code works or not.
-- `npm run prepublish`: Clean, lint, test then build
+- `npm run prepublish`: Clean, lint, test then build,
+- `npm run pub`: Interactive way to checking, clean, test, bumping version, tag commits, push repo and publish
 
 ## About travis
 
