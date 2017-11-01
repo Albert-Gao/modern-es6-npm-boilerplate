@@ -28,7 +28,7 @@ Just added 1 more:
 - `npm run clean` : Clean the `./dist` folder
 - `npm run build`: Clean and build `src` to `dist`
 - `npm run test`: Run tests via `Jest`
-- `npm run coverage`: Generates test coverage report via `Jest`
+- `npm run test -- --coverage`: Generates test coverage report via `Jest`
 - `npm run example`: Run example to see if the transpiled code works or not.
 - `npm run prepublish`: Clean, lint, test then build,
 - `npm run pub`: Interactive way to checking, clean, test, bumping version, tag commits, push repo and publish
