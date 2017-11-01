@@ -35,6 +35,14 @@ Just added 1 more:
 - `npm run prepublish`: Clean, lint, test then build,
 - `npm run pub`: Interactive way to checking, clean, test, bumping version, tag commits, push repo and publish
 
+## Badges
+
+We currently have 3 badges here:
+
+- Version: Generate your own at [https://badge.fury.io/](https://badge.fury.io/)
+- Licence: Generate your own at [http://shields.io/](http://shields.io/)
+- Building status: If you travis, open your project there, there should be badge at the top part, click it to get your own.
+
 ## About travis
 
 Instead of running the default `test` command, we will run the `npm run prepare` since it including all the phases for the final release.
