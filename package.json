@@ -44,6 +44,7 @@
     "babel-jest": "21.2.0",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "1.6.1",
+    "codecov": "3.0.0",
     "eslint": "4.11.0",
     "eslint-config-airbnb": "16.1.0",
     "eslint-config-prettier": "2.7.0",
