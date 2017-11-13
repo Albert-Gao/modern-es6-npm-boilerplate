@@ -2,6 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/veasy.svg)](https://badge.fury.io/js/veasy)
 [![npm](https://img.shields.io/npm/l/express.svg)](https://www.npmjs.com/package/veasy)
+[![Codecov](https://img.shields.io/codecov/c/github/codecov/example-python.svg)](https://github.com/Albert-Gao/modern-es6-npm-boilerplate)
 [![Build Status](https://travis-ci.org/Albert-Gao/modern-es6-npm-boilerplate.svg?branch=master)](https://travis-ci.org/Albert-Gao/modern-es6-npm-boilerplate)
 
 A template which you could use to write your NPM package via ES6 syntax.
