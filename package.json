@@ -10,15 +10,20 @@
     {
       "name": "Albert Gao",
       "email": "albertgaohy@gmail.com"
+    },
+    {
+      "name": "Vaibhav Mule",
+      "email": "vaibhavmule135@gmail.com",
+      "uri": "https://twitter.com/vaibhavmule"
     }
   ],
-  "homepage": "https://github.com/Mr-Binary/es6-npm-boilerplate#readme",
+  "homepage": "https://github.com/Albert-Gao/modern-es6-npm-boilerplate#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mr-Binary/es6-npm-boilerplate.git"
+    "url": "git+https://github.com/Albert-Gao/modern-es6-npm-boilerplate.git"
   },
   "bugs": {
-    "url": "https://github.com/Mr-Binary/es6-npm-boilerplate/issues"
+    "url": "https://github.com/Albert-Gao/modern-es6-npm-boilerplate/issues"
   },
   "keywords": [
     "module",
