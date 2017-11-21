@@ -13,6 +13,7 @@
     "one-var": [0, { "uninitialized": "always", "initialized": "never" }],
     "one-var-declaration-per-line": 0,
     "import/extensions": 0,
-    "import/no-unresolved": 0
+    "import/no-unresolved": 0,
+    "linebreak-style":"off"
   }
 }
