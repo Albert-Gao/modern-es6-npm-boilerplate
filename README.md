@@ -2,6 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/veasy.svg)](https://badge.fury.io/js/veasy)
 [![npm](https://img.shields.io/npm/l/express.svg)](https://www.npmjs.com/package/veasy)
+[![Codecov](https://img.shields.io/codecov/c/github/codecov/example-python.svg)](https://github.com/Albert-Gao/modern-es6-npm-boilerplate)
 [![Build Status](https://travis-ci.org/Albert-Gao/modern-es6-npm-boilerplate.svg?branch=master)](https://travis-ci.org/Albert-Gao/modern-es6-npm-boilerplate)
 
 A template which you could use to write your NPM package via ES6 syntax.
@@ -37,10 +38,10 @@ Just added 1 more:
 
 ## Badges
 
-We currently have 3 badges here:
+We currently have 4 badges here:
 
 - Version: Generate your own at [https://badge.fury.io/](https://badge.fury.io/)
-- Licence: Generate your own at [http://shields.io/](http://shields.io/)
+- Licence and Codecov: Generate your own at [http://shields.io/](http://shields.io/)
 - Building status: If you travis, open your project there, there should be badge at the top part, click it to get your own.
 
 ## About travis
