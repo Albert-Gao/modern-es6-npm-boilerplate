@@ -19,7 +19,7 @@ Just added 1 more:
 ## How to use
 
 1. Clone this repo from github
-   - `git clone https://github.com/Mr-Binary/es6-npm-boilerplate.git`
+   - `git clone https://github.com/Albert-Gao/es6-npm-boilerplate.git`
 1. Inside repo directory run `npm install && rm -r .git && git init`
 1. Update package.json with your information
 
